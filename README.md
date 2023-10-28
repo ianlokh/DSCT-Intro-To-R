@@ -8,5 +8,5 @@ This assignment (codes and report) must be completed and submitted by 2359 on th
 This assignment is to be done on an individual basis and any attempt at sharing results / code / findings / data / analysis / text or through any forms / medium by which the works is found to be not done by the individual – the assignment will be deemed as incomplete and will not be accepted.
 
 Code submissions
-•	must be made to each individual Github account and made accessible. Accounts that cannot be accessed will have their codes deemed as incomplete and assignment scored as such.
-•	that cannot be executed (portions or on the whole) will be deemed as incomplete and assignment will be scored as such.
+- must be made to each individual Github account and made accessible. Accounts that cannot be accessed will have their codes deemed as incomplete and assignment scored as such.
+- that cannot be executed (portions or on the whole) will be deemed as incomplete and assignment will be scored as such.
